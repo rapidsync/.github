@@ -2,4 +2,4 @@
 
 <hr>
 
-<h1>Soltube</h1>
+<h1>We are coming soon!</h1>
